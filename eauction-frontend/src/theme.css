@@ -1,0 +1,23 @@
+:root {
+  --color-primary: #6C47FF;
+  --color-accent: #FF6B81;
+  --color-bg: #F7F7FB;
+  --color-surface: #FFFFFF;
+  --color-text: #22223B;
+  --color-text-secondary: #6D6A7C;
+  --color-shadow: 0 2px 8px rgba(108,71,255,0.08);
+}
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+a:hover {
+  color: var(--color-accent);
+}
