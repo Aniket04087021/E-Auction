@@ -33,4 +33,22 @@
 ---
 
 ## 🧱 Project Structure
-
+bid-sphere/
+├── public/
+│ ├── assets/ # Image assets (e.g., vase.webp)
+│ ├── index.html
+│ └── favicon.ico
+├── src/
+│ ├── components/
+│ │ ├── Auction.jsx
+│ │ ├── AuctionDetails.jsx
+│ │ └── MyAuctions.jsx
+│ ├── data/
+│ │ └── auctions.json
+│ ├── App.css
+│ ├── App.jsx
+│ ├── index.jsx
+│ └── index.css
+├── package.json
+├── README.md
+└── .gitignore
