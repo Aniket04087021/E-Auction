@@ -9,19 +9,19 @@ const Navbar = () => {
   const handleSearchSubmit = (e) => {
     e.preventDefault();
     console.log("Search term:", search);
-    setShowMobileSearch(false); // hide search after submit on mobile
+    setShowMobileSearch(false);
   };
+
+  
 
   return (
     <nav className="navbar">
       <div className="navbar__container">
         <div className="navbar__row">
-          {/* Logo/Brand */}
           <div className="navbar__brand">
             <span className="navbar__brand-e">Bid</span>
             <span className="navbar__brand-auction">-Sphere</span>
           </div>
-          {/* Icons (hamburger + search) */}
           <div className="navbar__icons">
             <button
               className="hamburger"
@@ -30,7 +30,6 @@ const Navbar = () => {
             >
               <span className="hamburger__icon">{open ? "\u2715" : "\u2630"}</span>
             </button>
-            {/* Search icon for mobile */}
             <button
               className="navbar__search-icon"
               style={{ display: showMobileSearch ? 'none' : undefined }}
@@ -40,14 +39,12 @@ const Navbar = () => {
               <span role="img" aria-label="search">🔍</span>
             </button>
           </div>
-          {/* Desktop Links */}
           <div className="desktop-links">
             <Link to="/" className="desktop-links__link">Home</Link>
+            <Link to="/auction" className="desktop-links__link">Auctions</Link>
             <Link to="/my-auctions" className="desktop-links__link">My Auctions</Link>
-            <Link to="/Auction" className="desktop-links__link">Auction</Link>
           </div>
         </div>
-        {/* Search form (always after navbar row) */}
         <form
           onSubmit={handleSearchSubmit}
           className={`navbar__search-form${showMobileSearch ? ' navbar__search-form--mobile-active' : ''}`}
@@ -62,7 +59,6 @@ const Navbar = () => {
             autoFocus={showMobileSearch}
           />
           <button type="submit" className="navbar__search-button">Search</button>
-          {/* Close button for mobile search */}
           <button
             type="button"
             className="navbar__search-close"
@@ -73,12 +69,14 @@ const Navbar = () => {
           </button>
         </form>
       </div>
-      {/* Mobile menu */}
       {open && (
         <div className="navbar__mobile-menu">
           <Link to="/" className="navbar__mobile-link" onClick={() => setOpen(false)}>Home</Link>
-          <Link to="/create" className="navbar__mobile-link navbar__mobile-link--accent" onClick={() => setOpen(false)}>Create Auction</Link>
+          
+          <Link to="/auction" className="navbar__mobile-link" onClick={() => setOpen(false)}>Auctions</Link>
+
           <Link to="/my-auctions" className="navbar__mobile-link" onClick={() => setOpen(false)}>My Auctions</Link>
+
         </div>
       )}
     </nav>

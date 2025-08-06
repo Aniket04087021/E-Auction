@@ -1,0 +1,684 @@
+{
+  "antiques": [
+    {
+      "id": 11,
+      "title": "Antique Vase",
+      "currentBid": "0.5 ETH",
+      "image": "/assets/vase.webp",
+      "description": "A beautiful antique vase from the 19th century.",
+      "history": [
+        { "bidder": "User123", "amount": "0.4 ETH", "timestamp": "2025-08-05 10:00 AM" },
+        { "bidder": "CollectorX", "amount": "0.45 ETH", "timestamp": "2025-08-05 12:30 PM" },
+        { "bidder": "AntiqueFan", "amount": "0.5 ETH", "timestamp": "2025-08-06 09:15 AM" }
+      ],
+      "stats": {
+        "startingBid": "0.3 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-04 08:00 AM",
+        "endTime": "2025-08-10 20:00:00 +0530",
+        "category": "Antiques"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 12,
+      "title": "Vintage Watch",
+      "currentBid": "1.2 ETH",
+      "image": "/assets/vintage watch.webp",
+      "description": "A rare vintage watch in excellent condition.",
+      "history": [
+        { "bidder": "WatchLover", "amount": "1.0 ETH", "timestamp": "2025-08-04 11:00 AM" },
+        { "bidder": "TimeKeeper", "amount": "1.1 ETH", "timestamp": "2025-08-05 15:00:00 +0530" },
+        { "bidder": "VintageFan", "amount": "1.2 ETH", "timestamp": "2025-08-06 10:45 AM" }
+      ],
+      "stats": {
+        "startingBid": "0.8 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 09:00 AM",
+        "endTime": "2025-08-09 21:00:00 +0530",
+        "category": "Antiques"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 13,
+      "title": "Old Coin",
+      "currentBid": "0.8 ETH",
+      "image": "/assets/old coin.webp",
+      "description": "A rare old coin for collectors.",
+      "history": [
+        { "bidder": "CoinCollector", "amount": "0.7 ETH", "timestamp": "2025-08-05 08:30 AM" },
+        { "bidder": "Numismatist", "amount": "0.75 ETH", "timestamp": "2025-08-05 14:00:00 +0530" },
+        { "bidder": "HistoryBuff", "amount": "0.8 ETH", "timestamp": "2025-08-06 07:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "0.5 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-04 07:00 AM",
+        "endTime": "2025-08-10 19:00:00 +0530",
+        "category": "Antiques"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 14,
+      "title": "Antique Mirror",
+      "currentBid": "1.1 ETH",
+      "image": "/assets/mirror.webp",
+      "description": "An elegant antique mirror with ornate detailing.",
+      "history": [
+        { "bidder": "DecorFan", "amount": "0.9 ETH", "timestamp": "2025-08-04 13:00:00 +0530" },
+        { "bidder": "VintageLover", "amount": "1.0 ETH", "timestamp": "2025-08-05 16:00:00 +0530" },
+        { "bidder": "AntiqueBuyer", "amount": "1.1 ETH", "timestamp": "2025-08-06 08:30 AM" }
+      ],
+      "stats": {
+        "startingBid": "0.7 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 10:00 AM",
+        "endTime": "2025-08-09 22:00:00 +0530",
+        "category": "Antiques"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 15,
+      "title": "Antique Vase",
+      "currentBid": "0.5 ETH",
+      "image": "/assets/vase.webp",
+      "description": "A beautiful antique vase from the 19th century.",
+      "history": [
+        { "bidder": "User123", "amount": "0.4 ETH", "timestamp": "2025-08-05 10:00 AM" },
+        { "bidder": "CollectorX", "amount": "0.45 ETH", "timestamp": "2025-08-05 12:30 PM" },
+        { "bidder": "AntiqueFan", "amount": "0.5 ETH", "timestamp": "2025-08-06 09:15 AM" }
+      ],
+      "stats": {
+        "startingBid": "0.3 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-04 08:00 AM",
+        "endTime": "2025-08-10 20:00:00 +0530",
+        "category": "Antiques"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 16,
+      "title": "Vintage Watch",
+      "currentBid": "1.2 ETH",
+      "image": "/assets/vintage watch.webp",
+      "description": "A rare vintage watch in excellent condition.",
+      "history": [
+        { "bidder": "WatchLover", "amount": "1.0 ETH", "timestamp": "2025-08-04 11:00 AM" },
+        { "bidder": "TimeKeeper", "amount": "1.1 ETH", "timestamp": "2025-08-05 15:00:00 +0530" },
+        { "bidder": "VintageFan", "amount": "1.2 ETH", "timestamp": "2025-08-06 10:45 AM" }
+      ],
+      "stats": {
+        "startingBid": "0.8 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 09:00 AM",
+        "endTime": "2025-08-09 21:00:00 +0530",
+        "category": "Antiques"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 17,
+      "title": "Old Coin",
+      "currentBid": "0.8 ETH",
+      "image": "/assets/old coin.webp",
+      "description": "A rare old coin for collectors.",
+      "history": [
+        { "bidder": "CoinCollector", "amount": "0.7 ETH", "timestamp": "2025-08-05 08:30 AM" },
+        { "bidder": "Numismatist", "amount": "0.75 ETH", "timestamp": "2025-08-05 14:00:00 +0530" },
+        { "bidder": "HistoryBuff", "amount": "0.8 ETH", "timestamp": "2025-08-06 07:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "0.5 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-04 07:00 AM",
+        "endTime": "2025-08-10 19:00:00 +0530",
+        "category": "Antiques"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 18,
+      "title": "Antique Mirror",
+      "currentBid": "1.1 ETH",
+      "image": "/assets/mirror.webp",
+      "description": "An elegant antique mirror with ornate detailing.",
+      "history": [
+        { "bidder": "DecorFan", "amount": "0.9 ETH", "timestamp": "2025-08-04 13:00:00 +0530" },
+        { "bidder": "VintageLover", "amount": "1.0 ETH", "timestamp": "2025-08-05 16:00:00 +0530" },
+        { "bidder": "AntiqueBuyer", "amount": "1.1 ETH", "timestamp": "2025-08-06 08:30 AM" }
+      ],
+      "stats": {
+        "startingBid": "0.7 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 10:00 AM",
+        "endTime": "2025-08-09 22:00:00 +0530",
+        "category": "Antiques"
+      },
+      "status": "Active",
+      "userId": null
+    }
+  ],
+  "art": [
+    {
+      "id": 21,
+      "title": "Rare Painting",
+      "currentBid": "2.8 ETH",
+      "image": "/assets/painting.avif",
+      "description": "A rare painting by a famous artist.",
+      "history": [
+        { "bidder": "ArtLover", "amount": "2.5 ETH", "timestamp": "2025-08-04 09:00 AM" },
+        { "bidder": "GalleryOwner", "amount": "2.7 ETH", "timestamp": "2025-08-05 13:30:00 +0530" },
+        { "bidder": "ArtCollector", "amount": "2.8 ETH", "timestamp": "2025-08-06 10:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "2.0 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 08:00 AM",
+        "endTime": "2025-08-09 20:00:00 +0530",
+        "category": "Art & Paintings"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 22,
+      "title": "Modern Sculpture",
+      "currentBid": "1.9 ETH",
+      "image": "/assets/sculpture.webp",
+      "description": "A contemporary sculpture with unique design.",
+      "history": [
+        { "bidder": "SculptFan", "amount": "1.7 ETH", "timestamp": "2025-08-04 14:00:00 +0530" },
+        { "bidder": "ModernArtFan", "amount": "1.8 ETH", "timestamp": "2025-08-05 17:00:00 +0530" },
+        { "bidder": "ArtBuyer", "amount": "1.9 ETH", "timestamp": "2025-08-06 09:30 AM" }
+      ],
+      "stats": {
+        "startingBid": "1.5 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 11:00 AM",
+        "endTime": "2025-08-09 23:00:00 +0530",
+        "category": "Art & Paintings"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 23,
+      "title": "Abstract Art",
+      "currentBid": "1.3 ETH",
+      "image": "/assets/abstract.webp",
+      "description": "A vibrant abstract artwork.",
+      "history": [
+        { "bidder": "AbstractFan", "amount": "1.1 ETH", "timestamp": "2025-08-04 15:00:00 +0530" },
+        { "bidder": "ArtEnthusiast", "amount": "1.2 ETH", "timestamp": "2025-08-05 18:00:00 +0530" },
+        { "bidder": "ColorLover", "amount": "1.3 ETH", "timestamp": "2025-08-06 08:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "1.0 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 12:00 PM",
+        "endTime": "2025-08-09 00:00:00 +0530",
+        "category": "Art & Paintings"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 24,
+      "title": "Rare Painting",
+      "currentBid": "2.8 ETH",
+      "image": "/assets/painting.avif",
+      "description": "A rare painting by a famous artist.",
+      "history": [
+        { "bidder": "ArtLover", "amount": "2.5 ETH", "timestamp": "2025-08-04 09:00 AM" },
+        { "bidder": "GalleryOwner", "amount": "2.7 ETH", "timestamp": "2025-08-05 13:30:00 +0530" },
+        { "bidder": "ArtCollector", "amount": "2.8 ETH", "timestamp": "2025-08-06 10:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "2.0 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 08:00 AM",
+        "endTime": "2025-08-09 20:00:00 +0530",
+        "category": "Art & Paintings"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 25,
+      "title": "Modern Sculpture",
+      "currentBid": "1.9 ETH",
+      "image": "/assets/sculpture.webp",
+      "description": "A contemporary sculpture with unique design.",
+      "history": [
+        { "bidder": "SculptFan", "amount": "1.7 ETH", "timestamp": "2025-08-04 14:00:00 +0530" },
+        { "bidder": "ModernArtFan", "amount": "1.8 ETH", "timestamp": "2025-08-05 17:00:00 +0530" },
+        { "bidder": "ArtBuyer", "amount": "1.9 ETH", "timestamp": "2025-08-06 09:30 AM" }
+      ],
+      "stats": {
+        "startingBid": "1.5 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 11:00 AM",
+        "endTime": "2025-08-09 23:00:00 +0530",
+        "category": "Art & Paintings"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 26,
+      "title": "Abstract Art",
+      "currentBid": "1.3 ETH",
+      "image": "/assets/abstract.webp",
+      "description": "A vibrant abstract artwork.",
+      "history": [
+        { "bidder": "AbstractFan", "amount": "1.1 ETH", "timestamp": "2025-08-04 15:00:00 +0530" },
+        { "bidder": "ArtEnthusiast", "amount": "1.2 ETH", "timestamp": "2025-08-05 18:00:00 +0530" },
+        { "bidder": "ColorLover", "amount": "1.3 ETH", "timestamp": "2025-08-06 08:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "1.0 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 12:00 PM",
+        "endTime": "2025-08-09 00:00:00 +0530",
+        "category": "Art & Paintings"
+      },
+      "status": "Active",
+      "userId": null
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 31,
+      "title": "Classic Car Model",
+      "currentBid": "3.5 ETH",
+      "image": "/assets/classic car.webp",
+      "description": "A collectible classic car model.",
+      "history": [
+        { "bidder": "CarCollector", "amount": "3.2 ETH", "timestamp": "2025-08-04 10:30 AM" },
+        { "bidder": "AutoFan", "amount": "3.4 ETH", "timestamp": "2025-08-05 14:00:00 +0530" },
+        { "bidder": "VintageDriver", "amount": "3.5 ETH", "timestamp": "2025-08-06 09:45 AM" }
+      ],
+      "stats": {
+        "startingBid": "3.0 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 09:00 AM",
+        "endTime": "2025-08-09 21:00:00 +0530",
+        "category": "Vehicles"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 32,
+      "title": "Vintage Motorcycle",
+      "currentBid": "2.1 ETH",
+      "image": "/assets/motorcycle.webp",
+      "description": "A restored vintage motorcycle.",
+      "history": [
+        { "bidder": "BikeLover", "amount": "1.9 ETH", "timestamp": "2025-08-04 11:30 AM" },
+        { "bidder": "RiderX", "amount": "2.0 ETH", "timestamp": "2025-08-05 15:30:00 +0530" },
+        { "bidder": "MotoFan", "amount": "2.1 ETH", "timestamp": "2025-08-06 10:15 AM" }
+      ],
+      "stats": {
+        "startingBid": "1.8 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 10:00 AM",
+        "endTime": "2025-08-09 22:00:00 +0530",
+        "category": "Vehicles"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 33,
+      "title": "Racing Car Replica",
+      "currentBid": "4.2 ETH",
+      "image": "/assets/racing-car.webp",
+      "description": "A detailed racing car replica.",
+      "history": [
+        { "bidder": "RaceFan", "amount": "4.0 ETH", "timestamp": "2025-08-04 12:00 PM" },
+        { "bidder": "SpeedLover", "amount": "4.1 ETH", "timestamp": "2025-08-05 16:00:00 +0530" },
+        { "bidder": "CarEnthusiast", "amount": "4.2 ETH", "timestamp": "2025-08-06 11:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "3.8 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 11:00 AM",
+        "endTime": "2025-08-09 23:00:00 +0530",
+        "category": "Vehicles"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 34,
+      "title": "Classic Car Model",
+      "currentBid": "3.5 ETH",
+      "image": "/assets/classic car.webp",
+      "description": "A collectible classic car model.",
+      "history": [
+        { "bidder": "CarCollector", "amount": "3.2 ETH", "timestamp": "2025-08-04 10:30 AM" },
+        { "bidder": "AutoFan", "amount": "3.4 ETH", "timestamp": "2025-08-05 14:00:00 +0530" },
+        { "bidder": "VintageDriver", "amount": "3.5 ETH", "timestamp": "2025-08-06 09:45 AM" }
+      ],
+      "stats": {
+        "startingBid": "3.0 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 09:00 AM",
+        "endTime": "2025-08-09 21:00:00 +0530",
+        "category": "Vehicles"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 35,
+      "title": "Vintage Motorcycle",
+      "currentBid": "2.1 ETH",
+      "image": "/assets/motorcycle.webp",
+      "description": "A restored vintage motorcycle.",
+      "history": [
+        { "bidder": "BikeLover", "amount": "1.9 ETH", "timestamp": "2025-08-04 11:30 AM" },
+        { "bidder": "RiderX", "amount": "2.0 ETH", "timestamp": "2025-08-05 15:30:00 +0530" },
+        { "bidder": "MotoFan", "amount": "2.1 ETH", "timestamp": "2025-08-06 10:15 AM" }
+      ],
+      "stats": {
+        "startingBid": "1.8 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 10:00 AM",
+        "endTime": "2025-08-09 22:00:00 +0530",
+        "category": "Vehicles"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 36,
+      "title": "Racing Car Replica",
+      "currentBid": "4.2 ETH",
+      "image": "/assets/racing-car.webp",
+      "description": "A detailed racing car replica.",
+      "history": [
+        { "bidder": "RaceFan", "amount": "4.0 ETH", "timestamp": "2025-08-04 12:00 PM" },
+        { "bidder": "SpeedLover", "amount": "4.1 ETH", "timestamp": "2025-08-05 16:00:00 +0530" },
+        { "bidder": "CarEnthusiast", "amount": "4.2 ETH", "timestamp": "2025-08-06 11:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "3.8 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 11:00 AM",
+        "endTime": "2025-08-09 23:00:00 +0530",
+        "category": "Vehicles"
+      },
+      "status": "Active",
+      "userId": null
+    }
+  ],
+  "jewelry": [
+    {
+      "id": 41,
+      "title": "Diamond Ring",
+      "currentBid": "5.5 ETH",
+      "image": "/assets/diamond-ring.webp",
+      "description": "A stunning diamond ring with intricate craftsmanship.",
+      "history": [
+        { "bidder": "JewelryLover", "amount": "5.2 ETH", "timestamp": "2025-08-04 13:00:00 +0530" },
+        { "bidder": "GemCollector", "amount": "5.4 ETH", "timestamp": "2025-08-05 17:00:00 +0530" },
+        { "bidder": "LuxuryBuyer", "amount": "5.5 ETH", "timestamp": "2025-08-06 09:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "5.0 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 12:00 PM",
+        "endTime": "2025-08-09 00:00:00 +0530",
+        "category": "Jewelry"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 42,
+      "title": "Gold Necklace",
+      "currentBid": "2.3 ETH",
+      "image": "/assets/necklace.webp",
+      "description": "A luxurious gold necklace.",
+      "history": [
+        { "bidder": "GoldFan", "amount": "2.1 ETH", "timestamp": "2025-08-04 14:00:00 +0530" },
+        { "bidder": "JewelryBuyer", "amount": "2.2 ETH", "timestamp": "2025-08-05 18:00:00 +0530" },
+        { "bidder": "LuxuryFan", "amount": "2.3 ETH", "timestamp": "2025-08-06 08:30 AM" }
+      ],
+      "stats": {
+        "startingBid": "2.0 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 13:00:00 +0530",
+        "endTime": "2025-08-08 01:00:00 +0530",
+        "category": "Jewelry"
+      },
+      "status": "Ended",
+      "userId": null
+    },
+    {
+      "id": 43,
+      "title": "Pearl Earrings",
+      "currentBid": "1.7 ETH",
+      "image": "/assets/earrings.webp",
+      "description": "Elegant pearl earrings.",
+      "history": [
+        { "bidder": "PearlLover", "amount": "1.5 ETH", "timestamp": "2025-08-04 15:00:00 +0530" },
+        { "bidder": "GemFan", "amount": "1.6 ETH", "timestamp": "2025-08-05 19:00:00 +0530" },
+        { "bidder": "EarringCollector", "amount": "1.7 ETH", "timestamp": "2025-08-06 09:30 AM" }
+      ],
+      "stats": {
+        "startingBid": "1.4 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 14:00:00 +0530",
+        "endTime": "2025-08-09 02:00:00 +0530",
+        "category": "Jewelry"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 44,
+      "title": "Diamond Ring",
+      "currentBid": "5.5 ETH",
+      "image": "/assets/diamond-ring.webp",
+      "description": "A stunning diamond ring with intricate craftsmanship.",
+      "history": [
+        { "bidder": "JewelryLover", "amount": "5.2 ETH", "timestamp": "2025-08-04 13:00:00 +0530" },
+        { "bidder": "GemCollector", "amount": "5.4 ETH", "timestamp": "2025-08-05 17:00:00 +0530" },
+        { "bidder": "LuxuryBuyer", "amount": "5.5 ETH", "timestamp": "2025-08-06 09:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "5.0 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 12:00 PM",
+        "endTime": "2025-08-09 00:00:00 +0530",
+        "category": "Jewelry"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 45,
+      "title": "Gold Necklace",
+      "currentBid": "2.3 ETH",
+      "image": "/assets/necklace.webp",
+      "description": "A luxurious gold necklace.",
+      "history": [
+        { "bidder": "GoldFan", "amount": "2.1 ETH", "timestamp": "2025-08-04 14:00:00 +0530" },
+        { "bidder": "JewelryBuyer", "amount": "2.2 ETH", "timestamp": "2025-08-05 18:00:00 +0530" },
+        { "bidder": "LuxuryFan", "amount": "2.3 ETH", "timestamp": "2025-08-06 08:30 AM" }
+      ],
+      "stats": {
+        "startingBid": "2.0 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 13:00:00 +0530",
+        "endTime": "2025-08-08 01:00:00 +0530",
+        "category": "Jewelry"
+      },
+      "status": "Ended",
+      "userId": null
+    },
+    {
+      "id": 46,
+      "title": "Pearl Earrings",
+      "currentBid": "1.7 ETH",
+      "image": "/assets/earrings.webp",
+      "description": "Elegant pearl earrings.",
+      "history": [
+        { "bidder": "PearlLover", "amount": "1.5 ETH", "timestamp": "2025-08-04 15:00:00 +0530" },
+        { "bidder": "GemFan", "amount": "1.6 ETH", "timestamp": "2025-08-05 19:00:00 +0530" },
+        { "bidder": "EarringCollector", "amount": "1.7 ETH", "timestamp": "2025-08-06 09:30 AM" }
+      ],
+      "stats": {
+        "startingBid": "1.4 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 14:00:00 +0530",
+        "endTime": "2025-08-09 02:00:00 +0530",
+        "category": "Jewelry"
+      },
+      "status": "Active",
+      "userId": null
+    }
+  ],
+  "collectibles": [
+    {
+      "id": 51,
+      "title": "Rare Baseball Card",
+      "currentBid": "0.9 ETH",
+      "image": "/assets/baseball-card.webp",
+      "description": "A rare baseball card from the early 20th century.",
+      "history": [
+        { "bidder": "CardCollector", "amount": "0.7 ETH", "timestamp": "2025-08-04 16:00:00 +0530" },
+        { "bidder": "SportsFan", "amount": "0.8 ETH", "timestamp": "2025-08-05 20:00:00 +0530" },
+        { "bidder": "MemorabiliaFan", "amount": "0.9 ETH", "timestamp": "2025-08-06 10:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "0.6 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 15:00:00 +0530",
+        "endTime": "2025-08-09 03:00:00 +0530",
+        "category": "Collectibles"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 52,
+      "title": "Vintage Comic Book",
+      "currentBid": "1.4 ETH",
+      "image": "/assets/comic.webp",
+      "description": "A well-preserved vintage comic book.",
+      "history": [
+        { "bidder": "ComicFan", "amount": "1.2 ETH", "timestamp": "2025-08-04 17:00:00 +0530" },
+        { "bidder": "GeekCollector", "amount": "1.3 ETH", "timestamp": "2025-08-05 21:00:00 +0530" },
+        { "bidder": "ComicLover", "amount": "1.4 ETH", "timestamp": "2025-08-06 11:00 AM" }
+      ],
+      "stats": {
+        "startingBid": "1.0 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 16:00:00 +0530",
+        "endTime": "2025-08-09 04:00:00 +0530",
+        "category": "Collectibles"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 53,
+      "title": "Action Figure",
+      "currentBid": "0.6 ETH",
+      "image": "/assets/action-figure.webp",
+      "description": "A collectible action figure in mint condition.",
+      "history": [
+        { "bidder": "ToyCollector", "amount": "0.4 ETH", "timestamp": "2025-08-04 18:00:00 +0530" },
+        { "bidder": "FigureFan", "amount": "0.5 ETH", "timestamp": "2025-08-05 22:00:00 +0530" },
+        { "bidder": "ActionHero", "amount": "0.6 ETH", "timestamp": "2025-08-06 12:00 PM" }
+      ],
+      "stats": {
+        "startingBid": "0.3 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 17:00:00 +0530",
+        "endTime": "2025-08-09 05:00:00 +0530",
+        "category": "Collectibles"
+      },
+      "status": "Active",
+      "userId": null
+    },
+    {
+      "id": 54,
+      "title": "Signed Football",
+      "currentBid": "0.9 ETH",
+      "image": "/assets/football.webp",
+      "description": "A football signed by a legendary athlete.",
+      "history": [
+        { "bidder": "SportsFan", "amount": "0.7 ETH", "timestamp": "2025-08-04 16:30:00 +0530" },
+        { "bidder": "MemorabiliaFan", "amount": "0.8 ETH", "timestamp": "2025-08-05 20:30:00 +0530" },
+        { "bidder": "CollectorX", "amount": "0.9 ETH", "timestamp": "2025-08-06 10:30 AM" }
+      ],
+      "stats": {
+        "startingBid": "0.6 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 15:30:00 +0530",
+        "endTime": "2025-08-08 03:30:00 +0530",
+        "category": "Collectibles"
+      },
+      "status": "Ended",
+      "userId": "user123"
+    },
+    {
+      "id": 55,
+      "title": "Vintage Camera",
+      "currentBid": "2.1 ETH",
+      "image": "/assets/camera.webp",
+      "description": "A well-preserved vintage camera.",
+      "history": [
+        { "bidder": "PhotoFan", "amount": "1.9 ETH", "timestamp": "2025-08-04 17:30:00 +0530" },
+        { "bidder": "VintageLover", "amount": "2.0 ETH", "timestamp": "2025-08-05 21:30:00 +0530" },
+        { "bidder": "CameraCollector", "amount": "2.1 ETH", "timestamp": "2025-08-06 11:30 AM" }
+      ],
+      "stats": {
+        "startingBid": "1.8 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 16:30:00 +0530",
+        "endTime": "2025-08-09 04:30:00 +0530",
+        "category": "Collectibles"
+      },
+      "status": "Active",
+      "userId": "user123"
+    },
+    {
+      "id": 56,
+      "title": "Classic Guitar",
+      "currentBid": "3.0 ETH",
+      "image": "/assets/guitar.webp",
+      "description": "A classic guitar with a rich tone.",
+      "history": [
+        { "bidder": "MusicFan", "amount": "2.8 ETH", "timestamp": "2025-08-04 18:30:00 +0530" },
+        { "bidder": "Guitarist", "amount": "2.9 ETH", "timestamp": "2025-08-05 22:30:00 +0530" },
+        { "bidder": "InstrumentCollector", "amount": "3.0 ETH", "timestamp": "2025-08-06 12:30 PM" }
+      ],
+      "stats": {
+        "startingBid": "2.5 ETH",
+        "bidCount": 3,
+        "startTime": "2025-08-03 17:30:00 +0530",
+        "endTime": "2025-08-08 05:30:00 +0530",
+        "category": "Collectibles"
+      },
+      "status": "Ended",
+      "userId": "user123"
+    }
+  ]
+}
